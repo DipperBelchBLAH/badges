@@ -5417,8 +5417,8 @@
             "comment": "For first place winners in the Snowdin Winter Funfest",
             "title_tag": "I got first place in the Snowdin Fest!",
             "link": "",
-            "created_at": "2016-1-24 17:16:04",
-            "updated_at": "2016-1-24 17:16:04",
+            "created_at": "2015-12-08 17:16:04",
+            "updated_at": "2015-12-09 17:16:04",
             "category_tags": ["funfests", "unobtainable"]
         },
         {                    
@@ -5428,8 +5428,8 @@
             "comment": "For second place winners in the Snowdin Winter Funfest",
             "title_tag": "I got second place in the Snowdin Fest!",
             "link": "",
-            "created_at": "2016-1-24 17:24:06",
-            "updated_at": "2016-1-24 17:24:06",
+            "created_at": "2015-12-08 17:24:06",
+            "updated_at": "2015-12-08 17:24:06",
             "category_tags": ["funfests", "unobtainable"]
         },
         {            
@@ -5439,8 +5439,8 @@
             "comment": "For third place winners in the Snowdin Winter Funfest",
             "title_tag": "I got third place in the Snowdin Fest!",
             "link": "",
-            "created_at": "2016-1-24 17:26:24",
-            "updated_at": "2016-1-24 17:26:24",
+            "created_at": "2015-12-08 17:26:24",
+            "updated_at": "2015-12-08 17:26:24",
             "category_tags": ["funfests", "unobtainable"]
         },
         {            
@@ -5450,8 +5450,8 @@
             "comment": "For submissions deemed most wintery in the Snowdin Winter Funfest",
             "title_tag": "Most Wintery in a fest? It's snow joke!",
             "link": "",
-            "created_at": "2016-1-24 17:30:24",
-            "updated_at": "2016-1-24 17:30:24",
+            "created_at": "2015-12-08 17:30:24",
+            "updated_at": "2015-12-08 17:30:24",
             "category_tags": ["funfests", "unobtainable"]
         },
         {            
@@ -5461,12 +5461,297 @@
             "comment": "For event helpers in the Snowdin Winter Funfest",
             "title_tag": "temie so prod of u for hepling",
             "link": "",
-            "created_at": "2016-1-24 17:35:39",
-            "updated_at": "2016-1-24 17:35:39",
+            "created_at": "2015-12-08 17:35:39",
+            "updated_at": "2015-12-08 17:35:39",
             "category_tags": ["funfests", "unobtainable"]
-        }
-    ],
-    "groups":{
+        },
+        {
+            "id": 501,
+            "name": "Mafia MVP",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/0756/WIFOM.gif",
+            "comment": "For Mafia MVPs",
+            "title_tag": "So I can clearly not choose the wine in fromt of me!",
+            "link": "",
+            "created_at": "2016-1-01 14:22:20",
+            "updated_at": "2016-1-01 14:22:20",
+            "category_tags": ["current"]
+        },
+        {
+            "id": 502,
+            "name": "UnderTube Badge",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/2207/UndertubeBadge.png",
+            "comment": "Completed a video or LP for Undertale",
+            "title_tag": "I'm on the Undernet!",
+            "link": "",
+            "created_at": "2016-2-01 14:22:20",
+            "updated_at": "2016-2-01 14:22:20",
+            "category_tags": ["current"]
+        },
+        {
+              "id": 503,
+            "name": "Artdog Badge",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/0961/ArtdogBadge.gif",
+            "comment": "Was chosen as Artdog of the Week for fantastic Undertale Fanart!",
+            "title_tag": "bark bark art art",
+            "link": "",
+            "created_at": "2016-2-15 8:53:00",
+            "updated_at": "2016-2-15 8:53:00",
+            "category_tags": ["current"]
+        },
+        {
+            "id": 504,
+            "name": "Birthday Badge",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/3033/presently_but_very_late.png",
+            "comment": "For Euparkeria for giving out so many birthday wishes",
+            "title_tag": "Oh, it's your birthday! Here's a happy birthday badge. And on your birthday nothing can go wrong.",
+            "link": "",
+            "created_at": "2016-2-15 8:53:00",
+            "updated_at": "2016-2-15 8:53:00",
+            "category_tags": ["unique, unobtainable"]
+        },
+        {
+            "id": 505,
+            "name": "Eggman",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/3750/eggmensbedge.png",
+            "comment": "For Eggman who was too smart for Sith",
+            "title_tag": "Yolk it up now, sunny side",
+            "link": "",
+            "created_at": "2016-2-15 8:53:00",
+            "updated_at": "2016-2-15 8:53:00",
+            "category_tags": ["unique, unobtainable"]
+        },
+        {
+            "id": 506,
+            "name": "Mafia Player's Choice",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/6939/playerschoice.png",
+            "comment": "Won the popular vote in Mafia MVP nominations",
+            "title_tag": "You seem a decent fellow. I hate to kill you.",
+            "link": "",
+            "created_at": "2016-3-15 22:14:00",
+            "updated_at": "2016-3-15 22:14:00",
+            "category_tags": ["current"]
+        },
+        {
+            "id": 507,
+            "name": "vid's Spectacular",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/8106/spectacularbadge.png",
+            "comment": "Took a picture doing the Barrier Trio pose during vid's GPP",
+            "title_tag": "vid thinks you've a spectacular pose",
+            "link": "",
+            "created_at": "2016-4-15 22:14:00",
+            "updated_at": "2016-4-15 22:14:00",
+            "category_tags": ["funfests, unobtainable"]
+        },
+        {
+            "id": 508,
+            "name": "The Derek Rose Incident 2016",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/8305/3471.gif",
+            "comment": "Survived the Derek Rose of 2016",
+            "title_tag": "The Derek Rose Incident of 2016",
+            "link": "",
+            "created_at": "2016-4-15 22:14:00",
+            "updated_at": "2016-4-15 22:14:00",
+            "category_tags": ["unobtainable"]
+        },
+        {
+             "id": 509,
+            "name": "PAX East 2016",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/8308/pax2016.png",
+            "comment": "Starmen crew at PAX East 2016",
+            "title_tag": "Every Dog. Has its day.",
+            "link": "",
+            "created_at": "2016-4-15 22:14:00",
+            "updated_at": "2016-4-15 22:14:00",
+            "category_tags": ["events, unobtainable"]
+        },
+        {
+            "id": 510,
+            "name": "PAX East 2016 ANDRO",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/8308/pax2016.png",
+            "comment": "For Andro only",
+            "title_tag": "My name is Andronian and I wasn't actually at PAX East 2016",
+            "link": "",
+            "created_at": "2016-4-15 22:14:00",
+            "updated_at": "2016-4-15 22:14:00",
+            "category_tags": ["unique, unobtainable"]
+        },
+        {
+            "id": 511,
+            "name": "MTT Riddles Host",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/9190/hostbadge.gif",
+            "comment": "For those who have hosted Undertale Riddles",
+            "title_tag": "I hosted MTT riddles and all I got were these GREAT LEGS!",
+            "link": "",
+            "created_at": "2016-4-15 22:14:00",
+            "updated_at": "2016-4-15 22:14:00",
+            "category_tags": ["current"]
+        },
+        {
+            "id": 512,
+            "name": "Mother 3 Tenth Anniversary 1st Place",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/0962/1st_Place.gif",
+            "comment": "Placed 1st in any category",
+            "title_tag": "I won 1st place in the Mother 3 Tenth Anniversary Funfest!",
+            "link": "",
+            "created_at": "2016-4-20 22:14:00",
+            "updated_at": "2016-4-20 22:14:00",
+            "category_tags": ["funfests, unobtainable"]
+        },
+        {
+            "id": 513,
+            "name": "Mother 3 Tenth Anniversary 2nd Place",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/9898/2nd_Place.gif",
+            "comment": "Placed 2nd in any category",
+            "title_tag": "I got 2nd place in the Mother 3 Tenth Anniversary Funfest!",
+            "link": "",
+            "created_at": "2016-4-20 22:14:00",
+            "updated_at": "2016-4-20 22:14:00",
+            "category_tags": ["funfests, unobtainable"]
+        },
+        {
+            "id": 514,
+            "name": "Mother 3 Tenth Anniversary 3rd Place",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/0968/3rd_Place.gif",
+            "comment": "Placed 3rd in any category",
+            "title_tag": "I got 3rd place in the Mother 3 Tenth Anniversary Funfest!",
+            "link": "",
+            "created_at": "2016-4-20 22:14:00",
+            "updated_at": "2016-4-20 22:14:00",
+            "category_tags": ["funfests, unobtainable"]
+         },
+         {
+            "id": 515,
+            "name": "Mother 3 Tenth Anniversary Most Mothery",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0041/9673/doorknob.png",
+            "comment": "Won Most Mothery in the Mother 3 Tenth Anniversary Funfest",
+            "title_tag": "I won Most Mothery in the Mother 3 Tenth Anniversary Funfest!",
+            "link": "",
+            "created_at": "2016-4-20 22:14:00",
+            "updated_at": "2016-4-20 22:14:00",
+            "category_tags": ["funfests, unobtainable"]    
+         },
+         {
+            "id": 516,
+            "name": "Mother3 Funfest Helper",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/0469/helper.gif",
+            "comment": "Helped with the 2016 Mother3 Fanfest",
+            "title_tag": "I won Most Mothery in the Mother 3 Tenth Anniversary Funfest!",
+            "link": "",
+            "created_at": "2016-4-20 22:14:00",
+            "updated_at": "2016-4-20 22:14:00",
+            "category_tags": ["funfests, unobtainable"]
+         },
+         {
+            "id": 517,
+            "name": "Fight Cancer",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/1190/7iaozqaxT.png",
+            "comment": "You will forever be in our thoughts.",
+            "title_tag": "Cancer may end a life, but it will never end one's love.",
+            "link": "",
+            "created_at": "2016-6-10 12:00:00",
+            "updated_at": "2016-6-10 12:00:00",
+            "category_tags": ["unique"]
+         },
+         {
+            "id": 518,
+            "name": "FOTM (Fanfic) July 2016",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/2677/Fanfic_Badge_1_small.png",
+            "comment": "Won Fanfic of the Month in July",
+            "title_tag": "",
+            "link": "",
+            "created_at": "2016-7-10 8:53:00",
+            "updated_at": "2016-7-10 8:53:00",
+            "category_tags": ["current"]
+         },
+         {
+            "id": 519,
+            "name": "FOTM (Fanfic) August 2016",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/2677/Fanfic_Badge_1_small.png",
+            "comment": "Won Fanfic of the Month in August",
+            "title_tag": "",
+            "link": "",
+            "created_at": "2016-8-10 8:53:00",
+            "updated_at": "2016-8-10 8:53:00",
+            "category_tags": ["current"]
+         },
+         {
+            "id": 520,
+            "name": "Writing Bootcamp 2016",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/2927/scrappy.png",
+            "comment": "I survived Writing Bootcamp '16",
+            "title_tag": "I survived Writing Bootcamp '16",
+            "link": "",
+            "created_at": "2016-8-30 8:53:00",
+            "updated_at": "2016-8-30 8:53:00",
+            "category_tags": ["unobtainable, events"]
+         },
+         {
+            "id": 521,
+            "name": "Camp Fangamer 2016 Merchboy",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/4955/derekrosetradebadge.png",
+            "comment": "Traded with Buck Fever at CF2016",
+            "title_tag": "I'll trade you a forum badge for just one DP!",
+            "link": "",
+            "created_at": "2016-1-01 8:53:00",
+            "updated_at": "2016-1-01 8:53:00",
+            "category_tags": ["unobtainable, events"]
+         },
+         {
+            "id": 522,
+            "name": "Eatdown",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/4958/EatdownBadge-2016.png",
+            "comment": "Participated in the Eatdown event at Camp Fangamer '16",
+            "title_tag": "I ate terrible decisions at Eatdown 2016",
+            "link": "",
+            "created_at": "2016-1-01 8:53:00",
+            "updated_at": "2016-1-01 8:53:00",
+            "category_tags": ["unobtainable, events"]
+         },
+         {
+            "id": 523,
+            "name": "Mother 3 Siege",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0040/8244/m3SiegeBadge32.png",
+            "comment": "Participated in the Mother 3 Siege",
+            "title_tag": "Sieged!",
+            "link": "",
+            "created_at": "2016-1-01 8:53:00",
+            "updated_at": "2016-1-01 8:53:00",
+            "category_tags": ["unobtainable, events"]
+         },
+         {
+            "id": 524,
+            "name": "Monthly Writing Prompt Silver",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/1579/SilverBadge.png",
+            "comment": "Participated in Monthly Prompt 5 times",
+            "title_tag": "https://forum.starmen.net/forum/Fan/Writing",
+            "link": "",
+            "created_at": "2016-1-01 8:53:00",
+            "updated_at": "2016-1-01 8:53:00",
+            "category_tags": ["current"]
+         },
+         {
+            "id": 525,
+            "name": "White Wing",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/6767/Ala_Alba.png",
+            "comment": "CQ's Czar Badge",
+            "title_tag": "A little bit of courage is the real magic.",
+            "link": "",
+            "created_at": "2016-1-01 8:53:00",
+            "updated_at": "2016-1-01 8:53:00",
+            "category_tags": ["unique, unobtainable"]
+         },
+         {
+            "id": 526,
+            "name": "Cookie Cat",
+            "URL": "https://ssl-forum-files.fobby.net/forum_attachments/0042/5090/CookieCatBadge.gif",
+            "comment": "Participated in the Mother Universe Art Collab",
+            "title_tag": "https://forum.starmen.net/forum/Fan/Forum/Art-Collab-MOTHER-UNIVERSE/page/1#post2176369",
+            "link": "",
+            "created_at": "2016-1-01 8:53:00",
+            "updated_at": "2016-1-01 8:53:00",
+            "category_tags": ["unobtainable, events"]   
+   
+        "groups":{
         "donor": {
             "title":"Donation badges"
         },
